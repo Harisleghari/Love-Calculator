@@ -1,0 +1,48 @@
+body {
+    background-image: url("images/loveCalculator.jpg");
+    text-align: center;
+}
+
+.mainHeading h1{
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+    margin-left: 350px;
+    background-color: antiquewhite;
+    width: 50%;
+}
+
+.contentPart label {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    margin-left: 350px;
+    width: 50%;
+}
+
+.contentPart input, label {
+    display:block;
+    margin: 15px auto;
+    background-color: antiquewhite;
+}
+
+.contentPart input {
+    border-radius: 5px;
+}
+
+
+.resultButton {
+    margin-top: 50px;
+    
+}
+
+.clickBtn {
+    width: 6%;
+    font-size: 18px;
+    cursor: pointer;
+    background-color:aliceblue; 
+    margin-right: 20px;
+}
+
+.bottomHeading h4{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
